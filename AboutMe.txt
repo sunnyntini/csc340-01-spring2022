@@ -1,3 +1,13 @@
 Angie Chen
 -----------
 I'm a third year student in UNCG.
+=======
+I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
+and a BS in Computer Science from Indiana University of Pennsylvania. 
+I like puzzles and Lego; Wordle is okay too, I guess. 
+
+Cynthia Espinoza-Arredondo
+--------------------------
+I am a computer science student at UNCG. I am also minoring in math and Spanish.
+
+
